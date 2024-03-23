@@ -20,12 +20,12 @@
 <details>
   <summary>Table of Contents</summary><br>
 
-- [ Overview](#-overview)
-- [ Repository Structure](#-repository-structure)
-- [ Getting Started](#-getting-started)
+- [ Overview](#overview)
+- [ Repository Structure](#repository-structure)
+- [ Getting Started](#getting-started)
   - [ Setup](#setup)
-  - [ Tests](#-tests)
-- [ Project Roadmap](#-project-roadmap)
+  - [ Tests](#tests)
+- [ Project Roadmap](#project-roadmap)
 </details>
 <hr>
 
