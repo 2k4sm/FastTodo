@@ -1,7 +1,8 @@
 from pydantic import BaseModel
 from models import todo
-class ListTodo(BaseModel):
+
+class One_Todo(BaseModel):
     statusCode:int
     message:str
-    data:list[todo.Todo]
+    data: todo.Todo
     success:bool
